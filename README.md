@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para criar um guia para auxiliar as pessoas com a rotina co
 ## 🚀 Resultados
 O Ebook apresenta uma gama de receitas rápidas e praticas, além de saudáveis para o dia a dia corrido. Mostra como devemos nos importar mais com nossa alimentação e de como podemos nos organizar para poder desfrutar de uma refeição saudável.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/lukassorth/lab-natty-or-not/blob/main/Receitas%20saudaveis%20para%20correria.pdf)
 
 ## 💭 Reflexão
 A experiência de criação deste ebook, mostra que a tecnologia e a inteligencia artificial estão ai para nos ajudar tanto nas coisas mais complexas quanto nas mais simples, quem diria que uma inteligencia artifical saberia criar receitas que combinam sabores e cores diferentes nos pratos?
