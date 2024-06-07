@@ -1,20 +1,20 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Receitas Saudáveis para a Correria: Refeições Rápidas e Nutritivas
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Guia definitivo para preparar refeições saudáveis e rápidas para o dia a dia agitado.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[Foocus AI](https://www.foocus.ai/)** para criar a arte visual do e-book;
+- Ferramenta **Canva** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para criar um guia para auxiliar as pessoas com a rotina corrida a entender a importancia e poder preparar refeições saudáveis e de forma rápida, algumas imagens do ebook foram geradas pela "Foocus AI" na sua versão demo, para juntar tudo isso e apresentar, utilizei o Canva, editor online e gratuito para diagramar e customizar ainda mais o Ebook.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O Ebook apresenta uma gama de receitas rápidas e praticas, além de saudáveis para o dia a dia corrido. Mostra como devemos nos importar mais com nossa alimentação e de como podemos nos organizar para poder desfrutar de uma refeição saudável.
 
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+A experiência de criação deste ebook, mostra que a tecnologia e a inteligencia artificial estão ai para nos ajudar tanto nas coisas mais complexas quanto nas mais simples, quem diria que uma inteligencia artifical saberia criar receitas que combinam sabores e cores diferentes nos pratos?
